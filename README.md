@@ -1,2 +1,2 @@
-# communication
-Place you feedback or request creating new issue
+# Сommunication
+Place your feedback or request by creating a new issue
