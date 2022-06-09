@@ -4,7 +4,7 @@
 
 | I'm a one of millions OSM Contributors!                      | Я є одним з мільйонів учасників OSM!                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Since November 2014  I work on improving OpenStreetMap data for [Mapbox](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team). Always ready to answer all your questions! Also read about our [data team guidelines](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team). | З Листопада 2014 я працюю над покращенням даних OpenStreetMap для  [Mapbox](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team). Завжди готовий відповісти на всі ваші запитання! Ознайомтесь також з [настановами data team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team). |
+| Since November 2014 I work for Mapbox as a member of [Data Team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team). Nowadays, I help the User Feedback Team streamline workflows to best address users' issues. Now most of the changes in OSM are my own. | З Листопада 2014 я працюю Mapbox [Data Team](http://wiki.openstreetmap.org/wiki/Mapbox#Mapbox_Data_Team). У ці дні я допомагаю команді, яка опрацьовує фідбеки користувачів впорядкувати робочі процеси, щоб у найкращий спосіб розв'язати проблеми користувачів. Завжди готовий відповісти на всі ваші запитання! Зараз більшість змін в ОСМ мої власні.|
 
 ## Інформація для новачків
 ### Ласкаво просимо в ОСМ!
@@ -36,4 +36,4 @@ PPPS. В разі виникнення питань пов’язаних з н�
 З повагою,
 [Andygol](http://wiki.openstreetmap.org/wiki/User:Andygol)
 
-<sub>_See previous version of this profile on [GitHub](https://github.com/Andygol/communication/blob/a67840b38be2fec55d003ac2df0a1bb7352b9cf5/osm_profile.md)._</sub>
+<sub>_See previous version of this profile on [GitHub](https://github.com/Andygol/communication/blob/9c298e97bf03e52d2834962326666f94f026e79a/osm_profile.md)._</sub>
